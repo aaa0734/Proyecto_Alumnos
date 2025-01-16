@@ -322,3 +322,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft_121_update:deleted_
 [16Jan2025 23:42:37.479] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@aed0c0e[id=<null>,name=xd,properties={},legacy=false] (/[::1]:60722): Took too long to log in
 [16Jan2025 23:42:37.480] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@aed0c0e[id=<null>,name=xd,properties={},legacy=false] (/[::1]:60722) lost connection: Took too long to log in
 [16Jan2025 23:42:37.526] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[16Jan2025 23:55:10.127] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xd was kicked for floating too long!
+[16Jan2025 23:55:10.128] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xd lost connection: Flying is not enabled on this server
+[16Jan2025 23:55:10.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xd left the game
+[16Jan2025 23:55:10.190] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[16Jan2025 23:55:47.891] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xd[/[::1]:49264] logged in with entity id 2718 at (175.19026708896348, 73.24918707874468, 122.97537315657179)
+[16Jan2025 23:55:47.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xd joined the game
+[16Jan2025 23:55:47.920] [Server thread/INFO] [Jade/]: Syncing config to xd (4a1a6094-baea-35cb-ac2f-33afc395f58b)
+[16Jan2025 23:55:59.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] boten al haker
+[16Jan2025 23:57:49.731] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xd moved too quickly! 7.622201625259493,0.9769118908984495,6.76222637352609
+[16Jan2025 23:58:00.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Hola Mundo

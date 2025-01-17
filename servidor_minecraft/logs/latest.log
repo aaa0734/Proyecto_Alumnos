@@ -2,3 +2,4 @@
 [17Jan2025 00:44:00.271] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/7574, l='ServerLevel[world]', x=175.77, y=51.80, z=153.71] died, message: 'Unemployed tried to swim in lava'
 [17Jan2025 00:47:22.575] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xd lost connection: Timed out
 [17Jan2025 00:47:22.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xd left the game
+[17Jan2025 00:56:03.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] hello

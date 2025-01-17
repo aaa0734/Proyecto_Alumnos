@@ -1,1 +1,4 @@
 [17Jan2025 00:11:20.921] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/2859, l='ServerLevel[world]', x=177.28, y=51.74, z=153.73] died, message: 'Unemployed tried to swim in lava'
+[17Jan2025 00:44:00.271] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/7574, l='ServerLevel[world]', x=175.77, y=51.80, z=153.71] died, message: 'Unemployed tried to swim in lava'
+[17Jan2025 00:47:22.575] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xd lost connection: Timed out
+[17Jan2025 00:47:22.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xd left the game

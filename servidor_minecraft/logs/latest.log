@@ -3,3 +3,15 @@
 [17Jan2025 00:47:22.575] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xd lost connection: Timed out
 [17Jan2025 00:47:22.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xd left the game
 [17Jan2025 00:56:03.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] hello
+[17Jan2025 01:51:24.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[17Jan2025 01:51:24.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[17Jan2025 01:51:24.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[17Jan2025 01:51:24.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[17Jan2025 01:51:24.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17Jan2025 01:51:24.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17Jan2025 01:51:24.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17Jan2025 01:51:24.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17Jan2025 01:51:24.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17Jan2025 01:51:24.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17Jan2025 01:51:24.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17Jan2025 01:51:24.808] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

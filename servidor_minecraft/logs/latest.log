@@ -1,0 +1,28 @@
+[06:13:34] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[06:13:36] [ServerMain/INFO]: Loaded 1461 recipes
+[06:13:36] [ServerMain/INFO]: Loaded 1574 advancements
+[06:13:36] [Server thread/INFO]: Starting minecraft server version 1.21.10
+[06:13:36] [Server thread/INFO]: Loading properties
+[06:13:36] [Server thread/INFO]: Default game type: SURVIVAL
+[06:13:36] [Server thread/INFO]: Generating keypair
+[06:13:36] [Server thread/INFO]: Starting Minecraft server on *:25565
+[06:13:36] [Server thread/INFO]: Using epoll channel type
+[06:13:36] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[06:13:36] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[06:13:36] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[06:13:36] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[06:13:36] [Server thread/INFO]: Preparing level "world"
+[06:13:37] [Server thread/INFO]: Loading 0 persistent chunks...
+[06:13:37] [Server thread/INFO]: Preparing spawn area: 100%
+[06:13:37] [Server thread/INFO]: Time elapsed: 19 ms
+[06:13:37] [Server thread/INFO]: Done (0.387s)! For help, type "help"
+[06:13:40] [Server thread/INFO]: Misancio_[/127.4.209.83:48369] logged in with entity id 7 at (-923.5050395528905, 66.0, 98.34917559129461)
+[06:13:40] [Server thread/INFO]: Misancio_ joined the game
+[06:13:42] [Server thread/INFO]: ElSebadita[/127.226.173.15:44997] logged in with entity id 129 at (-308.13400847724745, 114.0625, 218.24181079146896)
+[06:13:42] [Server thread/INFO]: ElSebadita joined the game
+[06:13:45] [Server thread/INFO]: xd[/127.93.189.208:51307] logged in with entity id 305 at (-354.74323628647045, -40.0, -151.08206060668667)
+[06:13:45] [Server thread/INFO]: xd joined the game
+[06:13:50] [Server thread/WARN]: UUID of added entity already exists: cwd['Enderman'/494, l='ServerLevel[world]', x=-331.85, y=110.00, z=49.45]
+[06:13:52] [Server thread/INFO]: [ElSebadita: Teleported Misancio_ to ElSebadita]
+[06:16:42] [Server thread/INFO]: ElSebadita has made the advancement [Best Friends Forever]
+[06:17:04] [Server thread/INFO]: [ElSebadita: Teleported xd to ElSebadita]
